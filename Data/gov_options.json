@@ -2,23 +2,24 @@
   data: [
     {
       "Id": 1,
-      "Name": "Covid"
-      
+      "Name": "Covid",
+      "Type" : "COVID_VAC_CERT"
     },
     {
       "Id": 2,
-      "Name": "Φοιτητής"
+      "Name": "Φοιτητής",
+      "Type": "STUDENT"
       
     },
     {
       "Id": 3,
-      "Name": "ΑμεΑ"
-      
+      "Name": "ΑμεΑ",
+      "Type": "AMEA"
     },
     {
       "Id": 4,
       "Name": "Πυρόπληκτος"
-      
+      "Type": "FIRE"
     }
   ]
 }
