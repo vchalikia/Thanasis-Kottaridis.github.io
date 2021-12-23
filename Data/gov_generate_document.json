@@ -1,0 +1,8 @@
+{
+  data: {
+    optionId: 1,
+    documentId: "Test document Id",
+    documentType: "COVID_VAC_CERT",
+    documentTitle: "Αστυνομική Ταυτότητα"
+  }
+}
