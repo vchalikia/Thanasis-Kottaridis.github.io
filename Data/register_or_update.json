@@ -1,0 +1,9 @@
+{
+  data: {
+    "installationId": "Instalation_id_git_hub_1"
+  },
+  exceptions: {
+    "errorCode": "500-1",
+    "errorDescription": "Upgrade required"
+  }
+}
