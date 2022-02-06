@@ -1,0 +1,27 @@
+{
+  data: {
+    "id": "4xW_L_b25498fd9he9rh9F39ujf",
+    "type": "DRIVING_LICENCE",
+    "document_num": "010023465",
+    "generation_time": "2019-05-22T21:00:52.214709Z",
+    "expiration_time": "2030-05-22T21:00:52.214709Z",
+    "name": "ΙΩAΝΝΗΣ",
+    "name_en": "IOANNIS",
+    "surname": "ΠΑΠΑΔOΠΟΥΛΟΣ",
+    "surname_en": "PAPADOPOULOS",
+    "father_name": "ΠEΤΡΟΣ",
+    "father_name_en": "PETROS",
+    "father_surname": "ΠΑΠΑΔOΠΟΥΛΟΣ",
+    "father_surname_en": "PAPADOPOULOS",
+    "mother_name": "ΠΕΡΣΕΦΟΝΗ",
+    "mother_name_en": "PERSEFONI",
+    "mother_surname": "ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΥ",
+    "mother_surname_en": "PARASKEUOPOULOU",
+    "birth_date": "1985-10-02T21:00:52.214709Z",
+    "authority_issueing_document": "ΔΥΤ. ΑΘΗΝΑΣ"
+  },
+  exceptions: {
+    "errorCode": "500-1",
+    "errorDescription": "Upgrade required"
+  }
+}
