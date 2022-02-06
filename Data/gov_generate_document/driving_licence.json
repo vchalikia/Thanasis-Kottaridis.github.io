@@ -18,7 +18,8 @@
     "mother_surname": "ΠΑΡΑΣΚΕΥΟΠΟΥΛΟΥ",
     "mother_surname_en": "PARASKEUOPOULOU",
     "birth_date": "1985-10-02T21:00:52.214709Z",
-    "authority_issueing_document": "ΔΥΤ. ΑΘΗΝΑΣ"
+    "authority_issueing_document": "ΔΥΤ. ΑΘΗΝΑΣ",
+    "driving_category": "B"
   },
   exceptions: {
     "errorCode": "500-1",
