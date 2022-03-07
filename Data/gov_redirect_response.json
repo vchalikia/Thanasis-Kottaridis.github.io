@@ -1,7 +1,7 @@
 {
-  data: {
-    redirect: "https://auth.services.gov.gr/oidc/authorization?client_id=gov_wallet&redirect_uri=https%3A%2F%2Fgovwallet.services.gov.gr%2Fcallback&scope=openid%20offline_access%20profile&response_type=code&response_mode=query&nonce=1234567890&code_challenge=y_SfRG4BmOES02uqWeIkIgLQAlTBggyf_G7uKT51ku8&code_challenge_method=S256",
-    urlDone: "https://govwallet.services.gov.gr/callback?code=",
-    codeVerifier: "8KxxO-RPl0bLSxX5AWwgdiFbMnry_VOKzFeIlVA7NoA"
+  "data": {
+    "redirect": "https://auth.services.gov.gr/oidc/authorization?client_id=gov_wallet&redirect_uri=https%3A%2F%2Fgovwallet.services.gov.gr%2Fcallback&scope=openid%20offline_access%20profile&response_type=code&response_mode=query&nonce=1234567890&code_challenge=y_SfRG4BmOES02uqWeIkIgLQAlTBggyf_G7uKT51ku8&code_challenge_method=S256",
+    "urlDone": "https://govwallet.services.gov.gr/callback?code=",
+    "codeVerifier": "8KxxO-RPl0bLSxX5AWwgdiFbMnry_VOKzFeIlVA7NoA"
   }
 }
