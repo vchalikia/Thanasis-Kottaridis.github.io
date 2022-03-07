@@ -1,5 +1,5 @@
 {
-  data: {
+  "data": {
     "id": "5xW_L_b25498fd9he9rh9F39ujf",
     "type": "DRIVING_LICENCE",
     "document_num": "010023465",
@@ -21,7 +21,7 @@
     "authority_issueing_document": "ΔΥΤ. ΑΘΗΝΑΣ",
     "driving_category": "B"
   },
-  exceptions: {
+  "exceptions": {
     "errorCode": "500-1",
     "errorDescription": "Upgrade required"
   }
