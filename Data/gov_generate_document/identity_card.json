@@ -1,5 +1,5 @@
 {
-  data: {
+  "data": {
     "id": "4xW_L_b25498fd9he9rh9F39ujf",
     "type": "IDENTITY_CARD",
     "document_num": "AN 657890",
@@ -20,7 +20,7 @@
     "municipality": "ΚΟΡΥΔΑΛΛΟΥ",
     "authority_issueing_document": "Τ.Α. ΚΟΡΥΔΑΛΛΟΥ"
   },
-  exceptions: {
+  "exceptions": {
     "errorCode": "500-1",
     "errorDescription": "Upgrade required"
   }
