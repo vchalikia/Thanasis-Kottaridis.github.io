@@ -9,121 +9,121 @@
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "GENERATE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "GENERATE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "REVOKE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REVOKE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Συναίνεση - Άδεια Oδήγησης",
-        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ",
         "type": "CONSENT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Απόρριψη",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REJECT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Εγγραφή συσκευής",
-        "description": "iPhone 11"
+        "description": "iPhone 11",
         "type": "ENROLL_DEVICE"
       },
     {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "GENERATE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "GENERATE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "REVOKE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REVOKE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Συναίνεση - Άδεια Oδήγησης",
-        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ",
         "type": "CONSENT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Απόρριψη",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REJECT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Εγγραφή συσκευής",
-        "description": "iPhone 11"
+        "description": "iPhone 11",
         "type": "ENROLL_DEVICE"
       },
     {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "GENERATE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Έκδοση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "GENERATE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Άδεια Oδήγησης"
+        "description": "Άδεια Oδήγησης",
         "type": "REVOKE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Ανάκληση",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REVOKE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Συναίνεση - Άδεια Oδήγησης",
-        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ",
         "type": "CONSENT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
         "title": "Απόρριψη",
-        "description": "Δελτίο ταυτότητας"
+        "description": "Δελτίο ταυτότητας",
         "type": "REJECT_SCAN"
       }
     ]
