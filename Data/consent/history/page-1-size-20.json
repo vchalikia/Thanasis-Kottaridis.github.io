@@ -8,102 +8,123 @@
   "data": [
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Έκδοση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "GENERATE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Έκδοση",
+        "description": "Άδεια Oδήγησης"
+        "type": "GENERATE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },{
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Ανάκληση",
+        "description": "Άδεια Oδήγησης"
+        "type": "REVOKE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Ανάκληση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REVOKE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Συναίνεση - Άδεια Oδήγησης",
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "type": "CONSENT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Απόρριψη",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REJECT_SCAN"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
+        "title": "Εγγραφή συσκευής",
+        "description": "iPhone 11"
+        "type": "ENROLL_DEVICE"
       },
-     {
+    {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
-      },
-      {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Έκδοση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "GENERATE_IDENTITY_ID"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Έκδοση",
+        "description": "Άδεια Oδήγησης"
+        "type": "GENERATE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
-      },
-     {
-        "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Δημιουργία ψηφιακού διπλώματος. Αριθμός εγγράφου xyz",
-        "type": "IDENTITY_ID"
+        "title": "Ανάκληση",
+        "description": "Άδεια Oδήγησης"
+        "type": "REVOKE_DRIVING_LICENCE"
       },
       {
         "timestamp": "2019-05-22T21:00:52.214709Z",
-        "text": "Συνδεση από συσκευή Android",
-        "type": "DRIVING_LICENCE"
+        "title": "Ανάκληση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REVOKE_IDENTITY_ID"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Συναίνεση - Άδεια Oδήγησης",
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "type": "CONSENT_SCAN"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Απόρριψη",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REJECT_SCAN"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Εγγραφή συσκευής",
+        "description": "iPhone 11"
+        "type": "ENROLL_DEVICE"
+      },
+    {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Έκδοση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "GENERATE_IDENTITY_ID"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Έκδοση",
+        "description": "Άδεια Oδήγησης"
+        "type": "GENERATE_DRIVING_LICENCE"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Ανάκληση",
+        "description": "Άδεια Oδήγησης"
+        "type": "REVOKE_DRIVING_LICENCE"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Ανάκληση",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REVOKE_IDENTITY_ID"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Συναίνεση - Άδεια Oδήγησης",
+        "description": "EΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ"
+        "type": "CONSENT_SCAN"
+      },
+      {
+        "timestamp": "2019-05-22T21:00:52.214709Z",
+        "title": "Απόρριψη",
+        "description": "Δελτίο ταυτότητας"
+        "type": "REJECT_SCAN"
       }
     ]
 }
